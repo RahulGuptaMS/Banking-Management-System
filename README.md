@@ -66,7 +66,7 @@ BankManagementSystem-1.0-SNAPSHOT/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/BankingManagementSystem.git
+   git clone (https://github.com/RahulGuptaMS/Banking-Management-System/tree/main)
 
  Future Enhancements
 Admin Dashboard for Loan & User Management
@@ -86,7 +86,9 @@ Machine Learning-based Loan Eligibility Scoring
 📷 Screenshots
 
 
-![Screenshot 2025-04-13 205228](https://github.com/RahulGuptaMS/Banking-Management-System/tree/main)
+![Screenshot 2025-04-13 205228]
+![Screenshot 2025-04-13 205228](https://github.com/user-attachments/assets/79fa06f7-2ba6-4aef-a999-1a55e45b1ad7)
+()
 
 ![Uploading Screenshot 2025-04-13 204527.png…]()
 
