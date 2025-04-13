@@ -85,12 +85,13 @@ Machine Learning-based Loan Eligibility Scoring
 
 📷 Screenshots
 
+![Screenshot 2025-04-13 204527](https://github.com/user-attachments/assets/738f9c09-5eee-43f3-bf17-c03d0c053d43)
 
 ![Screenshot 2025-04-13 205228]
 ![Screenshot 2025-04-13 205228](https://github.com/user-attachments/assets/79fa06f7-2ba6-4aef-a999-1a55e45b1ad7)
 ()
 
-![Uploading Screenshot 2025-04-13 204527.png…]()
+
 
 
 
