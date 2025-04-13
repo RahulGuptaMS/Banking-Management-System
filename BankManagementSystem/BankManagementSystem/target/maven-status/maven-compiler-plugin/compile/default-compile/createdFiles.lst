@@ -1,0 +1,10 @@
+com\mycompany\bankmanagementsystem\servlet\RegisterServlet.class
+com\mycompany\bankmanagementsystem\servlet\DownloadPassbookServlet.class
+com\mycompany\bankmanagementsystem\servlet\LoginServlet.class
+com\mycompany\bankmanagementsystem\dao\DBConnection.class
+com\mycompany\bankmanagementsystem\JakartaRestConfiguration.class
+com\mycompany\bankmanagementsystem\resources\JakartaEE11Resource.class
+com\mycompany\bankmanagementsystem\servlet\AddMoneyServlet.class
+com\mycompany\bankmanagementsystem\dao\UserDAO.class
+com\mycompany\bankmanagementsystem\servlet\TransferMoneyServlet.class
+com\mycompany\bankmanagementsystem\servlet\WithdrawMoneyServlet.class
