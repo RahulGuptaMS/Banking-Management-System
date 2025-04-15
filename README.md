@@ -84,11 +84,18 @@ Responsive Mobile App Version
 Machine Learning-based Loan Eligibility Scoring
 
 📷 Screenshots
+![Screenshot 2025-04-14 214057](https://github.com/user-attachments/assets/2850c784-5a67-48be-9148-4eaa51add939)
 
-![Screenshot 2025-04-13 204527](https://github.com/user-attachments/assets/738f9c09-5eee-43f3-bf17-c03d0c053d43)
 
-![Screenshot 2025-04-13 205228]
-![Screenshot 2025-04-13 205228](https://github.com/user-attachments/assets/79fa06f7-2ba6-4aef-a999-1a55e45b1ad7)
+![Screenshot 2025-04-14 214213](https://github.com/user-attachments/assets/1cecf020-1487-4326-b98b-85db6d9d94d3)
+
+
+![Screenshot 2025-04-14 214703](https://github.com/user-attachments/assets/ba18b087-32bd-4aaf-8231-7d66daedeea0)
+
+![Screenshot 2025-04-14 214750](https://github.com/user-attachments/assets/0d271285-7dbd-434d-b48e-ae8cf33d33a4)
+
+
+
 ()
 
 
